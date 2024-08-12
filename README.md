@@ -1,5 +1,6 @@
-
-In this game, each player is represented by the letter 'O', and they have arms and legs drawn with slashes and pipes. The football is depicted by the '*' symbol.
+O O
+/|\ /|
+/ \ / \
 
 
 
